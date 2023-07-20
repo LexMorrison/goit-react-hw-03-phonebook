@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lexmorrison.github.io/goit-react-hw-03-phonebook/",
+  "homepage": "https://LexMorrison.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.1",
